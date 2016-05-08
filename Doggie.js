@@ -9,4 +9,5 @@ function multiplyImage() {
     table = table + row;
   }
   table = table + "</table>";
+  multiply++;
 }
