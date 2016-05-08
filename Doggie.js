@@ -1,2 +1,4 @@
 var multiply = 1;
-function multiplyImage() 
+function multiplyImage() {
+  var x = '<table id="dog table" onclick="multiplyImage()">';
+}
