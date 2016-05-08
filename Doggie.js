@@ -10,4 +10,5 @@ function multiplyImage() {
   }
   table = table + "</table>";
   multiply++;
+  document.getElementById("dog table").innerHTML = table;
 }
